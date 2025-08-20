@@ -14,6 +14,7 @@ A fully automated content pipeline that:
 
 ## Watch the Output
 YouTube: [@Ymainframeriot](https://www.youtube.com/@Ymainframeriot)
+Article: (https://open.substack.com/pub/almostreal/p/python-puzzles-youtube-and-ai-a-twist?r=5d4j0q&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 ---
 
