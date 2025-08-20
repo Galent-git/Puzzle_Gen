@@ -1,4 +1,4 @@
-# PuzzleGen — From AI generated Puzzles to YouTube Shorts
+# PuzzleGen : From AI generated Puzzles to YouTube Shorts
 
 A fully automated content pipeline that:
 - Generates bite-sized logic puzzles using Google's GenAI.
@@ -8,7 +8,7 @@ A fully automated content pipeline that:
 - Designed for clean separation of stages, robust state tracking, and effortless daily operation.
 - Can be automated and scheduled at any desired time or be run as a one off together or by individual stage.
 
-> **Note:** This is a clean demo repository for showcase purposes — not the private production repo.
+> **Note:** This is a clean demo repository for showcase purposes, not the private production repo.
 
 ---
 
